@@ -33,7 +33,7 @@
 ## 🏛️ Fraternidade Ethos
 
 Faço parte da fraternidade universitária **Ethos** — confira nossos projetos e iniciativas na nossa organização no GitHub:
-👉 **[Organização Ethos no GitHub](https://github.com/SEU-LINK-DA-ETHOS-AQUI)**
+👉 **[Organização Ethos no GitHub](https://github.com/Ethos-Foundation)**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:ff79c6&height=90&section=footer" width="100%" />
