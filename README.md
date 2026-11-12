@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=BD93F9&center=true&vCenter=true&width=600&lines=Esse+quam+videri;Deus+%C3%A9+bom+e+o+diabo+n%C3%A3o+presta;Python+Dev+%7C+Clarinete+%26+Viol%C3%A3o;Fraternidade+Ethos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=BD93F9&center=true&vCenter=true&width=600&lines=Esse+quam+videri;Python+Dev+%7C+Clarinete+%26+Viol%C3%A3o;Fraternidade+Ethos" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,16 +24,26 @@
   <img src="https://img.shields.io/badge/VS%20Code-Dracula-bd93f9?style=for-the-badge&logo=visualstudiocode&logoColor=f8f8f2&labelColor=282a36" alt="VS Code" />
 </p>
 
-## 📊 Estatísticas no GitHub
+## 📊 Estatísticas & Contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=juanvgoes&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
-## 🏛️ Fraternidade Ethos
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juanvgoes/juanvgoes/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
-Faço parte da fraternidade universitária **Ethos** — confira nossos projetos e iniciativas na nossa organização no GitHub:
-👉 **[Organização Ethos no GitHub](https://github.com/Ethos-Foundation)**
+## 🏛️ Fraternidade & Contato
+
+<p align="center">
+  <a href="https://github.com/Ethos-Foundation">
+    <img src="https://img.shields.io/badge/Ethos_Foundation-GitHub_Org-ff79c6?style=for-the-badge&logo=github&logoColor=f8f8f2&labelColor=282a36" alt="Ethos Foundation" />
+  </a>
+  <a href="https://www.linkedin.com/in/juangoes">
+    <img src="https://img.shields.io/badge/LinkedIn-juangoes-8be9fd?style=for-the-badge&logo=linkedin&logoColor=282a36&labelColor=282a36" alt="LinkedIn" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:ff79c6&height=90&section=footer" width="100%" />
