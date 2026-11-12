@@ -1,61 +1,41 @@
-&lt;div align=&quot;center&quot;&gt;
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:ff79c6&height=160&section=header&text=Juan%20Vin%C3%ADcius%20Goes&fontSize=42&fontColor=f8f8f2&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
-&lt;!-- Banner estilo Drácula --&gt;
-&lt;img src=&quot;https://capsule-render.vercel.app/api?type=waving&amp;color=0:282a36,50:bd93f9,100:ff79c6&amp;height=160&amp;section=header&amp;text=Juan%20Vin%C3%ADcius%20Goes&amp;fontSize=42&amp;fontColor=f8f8f2&amp;animation=fadeIn&amp;fontAlignY=38&quot; width=&quot;100%&quot; /&gt;
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=BD93F9&center=true&vCenter=true&width=600&lines=Esse+quam+videri;Deus+%C3%A9+bom+e+o+diabo+n%C3%A3o+presta;Python+Dev+%7C+Clarinete+%26+Viol%C3%A3o;Fraternidade+Ethos" alt="Typing SVG" />
+  </a>
+</p>
 
-&lt;!-- Texto animado (Typing SVG) com paleta Drácula --&gt;
-&lt;a href=&quot;https://git.io/typing-svg&quot;&gt;
-  &lt;img src=&quot;https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=BD93F9&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Esse+quam+videri;Deus+%C3%A9+bom+e+o+diabo+n%C3%A3o+presta;Python+Dev+%7C+Clarinete+%26+Viol%C3%A3o;Fraternidade+Ethos&quot; alt=&quot;Typing SVG&quot; /&gt;
-&lt;/a&gt;
-
-<br/>
-
-&lt;!-- Terminal Neofetch Animado com Retrato em ASCII --&gt;
-&lt;img src=&quot;./neofetch-dracula.svg&quot; alt=&quot;Neofetch Drácula - Juan Vinícius&quot; width=&quot;880&quot; /&gt;
-
-&lt;/div&gt;
-
-<br/>
+<p align="center">
+  <img src="./neofetch-dracula.svg" alt="Neofetch Drácula - Juan Vinícius" width="880" />
+</p>
 
 ## 🛠️ Stack & Ferramentas
 
-&lt;div align=&quot;center&quot;&gt;
-
-
-
-
-
-
-
-
-
-&lt;/div&gt;
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Principal-50fa7b?style=for-the-badge&logo=python&logoColor=282a36&labelColor=282a36" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-B%C3%A1sico-f1fa8c?style=for-the-badge&logo=javascript&logoColor=282a36&labelColor=282a36" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-B%C3%A1sico-8be9fd?style=for-the-badge&logo=typescript&logoColor=282a36&labelColor=282a36" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-B%C3%A1sico-bd93f9?style=for-the-badge&logo=c&logoColor=f8f8f2&labelColor=282a36" alt="C" />
+  <img src="https://img.shields.io/badge/Git-ffb86c?style=for-the-badge&logo=git&logoColor=282a36&labelColor=282a36" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-ff79c6?style=for-the-badge&logo=github&logoColor=282a36&labelColor=282a36" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-Dracula-bd93f9?style=for-the-badge&logo=visualstudiocode&logoColor=f8f8f2&labelColor=282a36" alt="VS Code" />
+</p>
 
 ## 📊 Estatísticas no GitHub
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img height=&quot;175em&quot; src=&quot;https://github-readme-stats.vercel.app/api?username=juanvgoes&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&quot; alt=&quot;GitHub Stats&quot; /&gt;
-  &lt;img height=&quot;175em&quot; src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=juanvgoes&amp;layout=compact&amp;langs_count=6&amp;theme=dracula&amp;hide_border=true&quot; alt=&quot;Top Languages&quot; /&gt;
-&lt;/div&gt;
-
-<br/>
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=juanvgoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvgoes&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🏛️ Fraternidade Ethos
 
 Faço parte da fraternidade universitária **Ethos** — confira nossos projetos e iniciativas na nossa organização no GitHub:
-👉 **[Organização Ethos no GitHub](https://www.google.com/search?q=https://github.com/Ethos-Foundation)**
+👉 **[Organização Ethos no GitHub](https://github.com/SEU-LINK-DA-ETHOS-AQUI)**
 
-<br/>
-
-&lt;!--
-## 🐍 Contribuições (Opcional: ative após configurar a GitHub Action Platane/snk)
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://raw.githubusercontent.com/juanvgoes/juanvgoes/output/github-snake-dark.svg&quot; alt=&quot;Snake animation&quot; /&gt;
-&lt;/div&gt;
---&gt;
-
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://capsule-render.vercel.app/api?type=waving&amp;color=0:282a36,50:bd93f9,100:ff79c6&amp;height=90&amp;section=footer&quot; width=&quot;100%&quot; /&gt;
-&lt;/div&gt;
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:ff79c6&height=90&section=footer" width="100%" />
+</p>
