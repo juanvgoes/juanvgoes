@@ -27,8 +27,7 @@
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=juanvgoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvgoes&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=juanvgoes&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 ## 🏛️ Fraternidade Ethos
